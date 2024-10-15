@@ -1,0 +1,1 @@
+produkt z maven gson
